@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Portfolio Website",
+    "link": "",
+    "linkType": "View Code",
+    "description": "This very website built with React and TypeScript.",
+    "technologies": ["React", "TypeScript", "CSS", "HTML"]
+  },
+  {
+    "name": "Sales-Forecasting",
+    "link": "https://github.com/Prithiga023/sales-forecasting-project-using-ml",
+    "linkType": "View Code",
+    "description": "This very website built with React and TypeScript.",
+    "technologies": ["React", "TypeScript", "CSS", "HTML"]
+  },
+  {
+    "name": "Habits-To-Gamify-Gen-AI",
+    "link": "https://github.com/Prithiga023/habits-to-gamify-with-Gen-AI",
+    "linkType": "View Code",
+    "description": "This very website built with React and TypeScript.",
+    "technologies": ["React", "TypeScript", "CSS", "HTML"]
+  },
+  {
+    "name": "Expense-Tracker",
+    "link": "https://github.com/Prithiga023/expense-tracker",
+    "linkType": "View Code",
+    "description": "A dashboard using Python's Dash framework to visualize complex datasets.",
+    "technologies": ["Python", "Dash", "Plotly", "Pandas"]
+  },
+  {
+    "name": "Guessing a Number",
+    "link": "",
+    "linkType": "View Code",
+    "description": "This very website built with React and TypeScript.",
+    "technologies": ["React", "TypeScript", "CSS", "HTML"]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Programming Languages",
+    "subSkills": [
+      "Python",
+      "SQL",
+      "Core Java",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  },
+  {
+  "name": "DevOps",
+  "subSkills": [
+    "CI/CD Pipelines",
+    "Version Control (Git)",
+    "Infrastructure as Code (IaC)",
+    "Docker",
+    "Kubernetes",
+    "Cloud Platforms (AWS, Azure, GCP)",
+    "Automation Scripting ",
+    "Container Orchestration"
+  ]
+  },
+
+  {
+    "name": "Databases",
+    "subSkills": ["MySQL", "PostgreSQL", "MongoDB", "DB2", "Oracle"]
+  },
+  {
+    "name": "Frameworks / Libraries",
+    "subSkills": ["ReactJS", "NodeJS", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn"]
+  },
+  {
+    "name": "Machine Learning",
+    "subSkills": [
+      "Linear Regression",
+      "Logistic Regression",
+      "Random Forest",
+      "K-Means Clustering",
+      "XGBoost",
+      "KNN"
+    ]
+  },
+  {
+    "name": "Version Control",
+    "subSkills": ["Git", "GitHub", "GitLab"]
+  }
+]
